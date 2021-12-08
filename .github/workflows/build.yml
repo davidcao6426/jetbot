@@ -1,5 +1,5 @@
 name: Build
-on:
+on: push
   push:
     branches:
       - master # or the name of your main branch
